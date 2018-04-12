@@ -1,2 +1,5 @@
 # MintCoin-Development-Updates
-News you can use about MintCoin development efforts
+_"News You Can Use"_ about MintCoin development efforts!
+
+The latest update is from [2018-04-13](2018-04-13.md).
+
